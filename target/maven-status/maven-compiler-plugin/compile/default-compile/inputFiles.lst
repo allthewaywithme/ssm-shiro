@@ -1,0 +1,15 @@
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\user\service\UserService.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\test\controller\TestController.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\user\entity\Role.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\common\interceptor\SessionInterceptor.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\user\service\UserServiceImpl.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\common\security\MyRealm.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\user\dao\UserMapper.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\common\utils\DateUtils.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\user\entity\User.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\common\page\PageQueryBean.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\login\controller\LoginController.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\user\controller\UserController.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\common\utils\MD5Utils.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\user\entity\Permission.java
+D:\ideaworkspacem\ideaworkspacemsboot\ssm-shiro\src\main\java\com\giant\common\security\CustomCredentialsMatcher.java

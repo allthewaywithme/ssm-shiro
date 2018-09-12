@@ -1,0 +1,15 @@
+com\giant\common\utils\MD5Utils.class
+com\giant\user\controller\UserController.class
+com\giant\user\entity\User.class
+com\giant\common\security\SystemLogoutFilter.class
+com\giant\common\security\MyRealm.class
+com\giant\user\entity\Role.class
+com\giant\common\utils\DateUtils.class
+com\giant\common\security\CustomCredentialsMatcher.class
+com\giant\user\service\UserServiceImpl.class
+com\giant\user\dao\UserMapper.class
+com\giant\user\service\UserService.class
+com\giant\common\interceptor\SessionInterceptor.class
+com\giant\login\controller\LoginController.class
+com\giant\common\page\PageQueryBean.class
+com\giant\user\entity\Permission.class
